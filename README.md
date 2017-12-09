@@ -1,4 +1,4 @@
-# Alienware_13_OLED_brightness
+# Alienware 13 OLED brightness
 Little hack for manage brightness in Alienware 13 OLED kabylake in Linux OS
 
 # Dependencies
